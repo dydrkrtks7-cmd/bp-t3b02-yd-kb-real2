@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>여의도 코인노래방 위치 정보</title>
+  <rect width="64" height="64" rx="10" fill="hsl(184 66% 27%)"/>
+  <g transform="rotate(90 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(296 68% 65%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(184 24% 96%)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
+</svg>
